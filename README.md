@@ -91,7 +91,7 @@ When I'm not coding, I'm exploring new Flutter packages, reading about clean arc
 
 ---
 
-### 🏥 [SevaSutra](https://github.com/Praful2604/SevaSutra) SevaSutra — Community Health Survey App
+### 🏥 [SevaSutra](https://github.com/Praful2604/SevaSutra) — Community Health Survey App
 > An offline-first health survey app designed for areas with limited connectivity.
 
 - 📡 **Offline-first architecture** using Isar DB for local data persistence
