@@ -104,7 +104,7 @@ When I'm not coding, I'm exploring new Flutter packages, reading about clean arc
 
 <div align="center">
 
-![Praful's GitHub Stats](https://github-readme-stats-git-masterorsomethingelse-anuraghazras-projects.vercel.app/api?username=Praful2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Praful's GitHub Stats](![Praful's GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api?username=Praful2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true))
 
 ![Top Languages](https://github-readme-stats-git-masterorsomethingelse-anuraghazras-projects.vercel.app/api/top-langs/?username=Praful2604&layout=compact&theme=tokyonight&hide_border=true)
 
