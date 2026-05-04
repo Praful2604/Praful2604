@@ -1,16 +1,151 @@
-## Hi there 👋
+# Praful2604
 
-<!--
-**Praful2604/Praful2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hey there, I'm Praful Kadam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Flutter Developer ·· Mumbai, India
+
+<p align="center">
+  <em>Building production-ready mobile & web apps with clean UI, real-time systems, and offline-first architectures.</em>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praful%20Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prafulkadam)
+[![GitHub](https://img.shields.io/badge/GitHub-Praful2604-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praful2604)
+[![Email](https://img.shields.io/badge/Email-prafulkadam226%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prafulkadam226@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%208087614598-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918087614598)
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm a passionate **Flutter developer** and final-year Computer Engineering student at Mumbai University, graduating in **June 2026**. I love crafting cross-platform apps that are fast, scalable, and delightful to use.
+
+Over the past couple of years, I've worked on production-level apps spanning **complaint management**, **cloud photo sharing**, and **community health surveys** — picking up deep experience in **Firebase**, **Supabase**, and **offline-first** mobile architectures along the way.
+
+When I'm not coding, I'm exploring new Flutter packages, reading about clean architecture, or figuring out why my Isar schema migration broke everything again. 😅
+
+- 🌍 Based in **Mumbai, Maharashtra, India**
+- 🎓 Final Year **B.E. Computer Engineering** (Graduating June 2026)
+- 💼 Open to **Flutter Developer roles** and freelance opportunities
+- 🔍 Interested in **scalable app architecture**, **real-time systems**, and **clean UI/UX**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### State Management
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-Learning-orange?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-Learning-orange?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF7F00?style=for-the-badge&logo=hive&logoColor=white)
+![Isar](https://img.shields.io/badge/Isar%20DB-6C63FF?style=for-the-badge&logoColor=white)
+
+### Networking & APIs
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📋 Feedback Flow — Complaint Management System
+> A role-based complaint management platform with real-time updates and anonymous reporting.
+
+- 🔐 **Role-based access control** using Firebase Authentication (Admin, Staff, User roles)
+- 🔥 **Real-time complaint tracking** powered by Cloud Firestore listeners
+- 🕵️ **Anonymous complaint feature** for secure and private submissions
+- 📊 Admin dashboard for complaint status management and resolution tracking
+
+---
+
+### 📸 Instant Photos — Cloud Photo Sharing Platform
+> A real-time photo sharing app with intelligent face recognition-based filtering.
+
+- 🤖 **Face recognition-based filtering** to find photos featuring specific individuals
+- ⚡ **Real-time photo updates** using Firebase Storage & Firestore listeners
+- 🗂️ Event-based photo album management with seamless sharing capabilities
+- 📱 Optimized Flutter UI for smooth image browsing on both mobile and web
+
+---
+
+### 🏥 SevaSutra — Community Health Survey App
+> An offline-first health survey app designed for areas with limited connectivity.
+
+- 📡 **Offline-first architecture** using Isar DB for local data persistence
+- 🔄 **Automatic data sync** with Firebase Firestore when connectivity is restored
+- 📝 Dynamic survey form builder for customizable community health assessments
+- 📈 Health data visualization with local analytics and reporting
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Praful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praful2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praful2604&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Praful2604&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- 🌊 **Riverpod** — Reactive state management for scalable Flutter apps
+- 🧱 **BLoC Pattern** — Predictable state management with separation of concerns
+- 🔄 **CI/CD Pipelines** — GitHub Actions, Fastlane for automated Flutter deployments
+- 🏗️ **Clean Architecture** — Structuring apps for long-term maintainability
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to collaborating on interesting Flutter projects, discussing mobile architecture, or just talking tech!
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [prafulkadam226@gmail.com](mailto:prafulkadam226@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/prafulkadam](https://linkedin.com/in/prafulkadam) |
+| 🐙 GitHub | [github.com/Praful2604](https://github.com/Praful2604) |
+| 📞 Phone | [+91 8087614598](tel:+918087614598) |
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Praful2604&color=02569B&style=for-the-badge&label=Profile+Views)
+
+⭐ **If you find my projects helpful, consider giving them a star!** ⭐
+
+</div>
