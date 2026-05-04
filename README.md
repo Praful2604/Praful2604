@@ -69,8 +69,7 @@ When I'm not coding, I'm exploring new Flutter packages, reading about clean arc
 ---
 
 ## 🚀 Featured Projects
-### 📋 [Feedback Flow](https://github.com/Praful2604/feedback-flow) — Complaint Management System
-### 📋 Feedback Flow — Complaint Management System
+### 📋 [Feedback Flow](https://github.com/Praful2604/feedback_flow_Student_app) — Complaint Management System
 > A role-based complaint management platform with real-time updates and anonymous reporting.
 
 - 🔐 **Role-based access control** using Firebase Authentication (Admin, Staff, User roles)
@@ -80,7 +79,9 @@ When I'm not coding, I'm exploring new Flutter packages, reading about clean arc
 
 ---
 
-### 📸 Instant Photos — Cloud Photo Sharing Platform
+
+
+### 🏥 [Instant Photos](https://github.com/Praful2604/instant-photos-website) — Cloud Photo Sharing Platform
 > A real-time photo sharing app with intelligent face recognition-based filtering.
 
 - 🤖 **Face recognition-based filtering** to find photos featuring specific individuals
@@ -90,7 +91,7 @@ When I'm not coding, I'm exploring new Flutter packages, reading about clean arc
 
 ---
 
-### 🏥 SevaSutra — Community Health Survey App
+### 🏥 [SevaSutra](https://github.com/Praful2604/SevaSutra) SevaSutra — Community Health Survey App
 > An offline-first health survey app designed for areas with limited connectivity.
 
 - 📡 **Offline-first architecture** using Isar DB for local data persistence
