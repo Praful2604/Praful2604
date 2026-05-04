@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praful%20Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prafulkadam)
 [![GitHub](https://img.shields.io/badge/GitHub-Praful2604-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praful2604)
-[![Email](https://img.shields.io/badge/Email-prafulkadam8697%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prafulkadam226@gmail.com)
+[![Email](https://img.shields.io/badge/Email-prafulkadam8697%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prafulkadam8697@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%208087614598-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918087614598)
 
 </div>
