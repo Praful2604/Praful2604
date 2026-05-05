@@ -132,7 +132,7 @@ I'm always open to collaborating on interesting Flutter projects, discussing mob
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | [prafulkadam226@gmail.com](mailto:prafulkadam226@gmail.com) |
+| 📧 Email | [prafulkadam8697@gmail.com](mailto:prafulkadam8697@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/prafulkadam](https://linkedin.com/in/prafulkadam) |
 | 🐙 GitHub | [github.com/Praful2604](https://github.com/Praful2604) |
 | 📞 Phone | [+91 8087614598](tel:+918087614598) |
