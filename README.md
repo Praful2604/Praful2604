@@ -107,7 +107,7 @@ When I'm not coding, I'm exploring new Flutter packages, reading about clean arc
 
 ![Praful's GitHub Stats](![Praful's GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api?username=Praful2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true))
 
-![Top Languages]((https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Praful2604&layout=compact&theme=tokyonight&hide_border=true))
+![Top Languages](![Praful's Top Languages](https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Praful2604&layout=compact&theme=tokyonight&hide_border=true))
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Praful2604&theme=tokyonight&hide_border=true)
 
