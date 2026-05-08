@@ -10,7 +10,6 @@
   <em>Building production-ready mobile & web apps with clean UI, real-time systems, and offline-first architectures.</em>
 </p>
 
-## 📄 Resume
 
 <div align="center">
 
