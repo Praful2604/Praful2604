@@ -73,6 +73,21 @@ When I'm not coding, I'm exploring new Flutter packages, reading about clean arc
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+---
+
+## 🧠 Development Approach
+
+```text
+Flutter UI
+   ↓
+State Management
+   ↓
+Repository Layer
+   ↓
+Firebase / Supabase APIs
+   ↓
+Local Storage (Isar/Hive)
+---
 
 ## 🚀 Featured Projects
 ### 📋 [Feedback Flow](https://github.com/Praful2604/feedback_flow_Student_app) — Complaint Management System
