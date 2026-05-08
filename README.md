@@ -4,17 +4,13 @@
 
 # 👋 Hey there, I'm Praful Kadam
 
-### 📱 Flutter Developer ·· Mumbai, India
+### 📱 Flutter Developer · Mumbai, India
 
 <p align="center">
   <em>Building production-ready mobile & web apps with clean UI, real-time systems, and offline-first architectures.</em>
 </p>
 
-
-<div align="center">
-
 [![View Resume](https://img.shields.io/badge/View-Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1YebQRKNXg5DvjdErwsKpN6ct9hOaIToL/view?usp=drive_link)
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praful%20Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prafulkadam)
 [![GitHub](https://img.shields.io/badge/GitHub-Praful2604-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praful2604)
@@ -73,7 +69,6 @@ When I'm not coding, I'm exploring new Flutter packages, reading about clean arc
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
----
 
 ## 🧠 Development Approach
 
@@ -87,9 +82,12 @@ Repository Layer
 Firebase / Supabase APIs
    ↓
 Local Storage (Isar/Hive)
+```
+
 ---
 
 ## 🚀 Featured Projects
+
 ### 📋 [Feedback Flow](https://github.com/Praful2604/feedback_flow_Student_app) — Complaint Management System
 > A role-based complaint management platform with real-time updates and anonymous reporting.
 
@@ -100,9 +98,7 @@ Local Storage (Isar/Hive)
 
 ---
 
-
-
-### 🏥 [Instant Photos](https://github.com/Praful2604/instant-photos-website) — Cloud Photo Sharing Platform
+### 📸 [Instant Photos](https://github.com/Praful2604/instant-photos-website) — Cloud Photo Sharing Platform
 > A real-time photo sharing app with intelligent face recognition-based filtering.
 
 - 🤖 **Face recognition-based filtering** to find photos featuring specific individuals
@@ -126,9 +122,9 @@ Local Storage (Isar/Hive)
 
 <div align="center">
 
-![Praful's GitHub Stats](![Praful's GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api?username=Praful2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true))
+![Praful's GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api?username=Praful2604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](![Praful's Top Languages](https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Praful2604&layout=compact&theme=tokyonight&hide_border=true))
+![Top Languages](https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Praful2604&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Praful2604&theme=tokyonight&hide_border=true)
 
@@ -144,19 +140,19 @@ Local Storage (Isar/Hive)
 - 🏗️ **Clean Architecture** — Structuring apps for long-term maintainability
 
 ---
----
 
 ## 🏆 Certifications
 
 <div align="center">
 
 | Certification | Issued By | Credential |
-|---------------|------------|-------------|
+|---------------|-----------|------------|
 | 📱 Advanced Flutter Development | Udemy | [View Certificate](https://drive.google.com/file/d/1kKXq2sTUpW8anFELbsrFI1-axk6IJQOO/view?usp=drive_link) |
 | ☁️ Flutter Essential Training | LinkedIn Learning | [View Certificate](https://drive.google.com/file/d/15gpZzkpkGnScVFfQ5VuLK_IcFeKl76RM/view?usp=drive_link) |
 | 🔥 Firebase Essential Training | LinkedIn Learning | [View Certificate](https://drive.google.com/file/d/1KGrUls5dMDwjNeTiEPt5nDXgsBwxmt7V/view?usp=drive_link) |
 
 </div>
+
 ---
 
 ## 🤝 Open to Collaboration
@@ -172,7 +168,6 @@ I'm open to:
 ---
 
 ## 📬 Let's Connect
-
 
 I'm always open to collaborating on interesting Flutter projects, discussing mobile architecture, or just talking tech!
 
