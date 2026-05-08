@@ -143,15 +143,20 @@ When I'm not coding, I'm exploring new Flutter packages, reading about clean arc
 
 </div>
 ---
+
 ## 🤝 Open to Collaboration
 
 I'm open to:
-- Flutter freelance projects
-- Open-source collaboration
-- Startup MVP development
-- UI implementation projects
-- Firebase/Supabase integrations
+
+- 📱 Flutter freelance projects
+- 🤝 Open-source collaboration
+- 🚀 Startup MVP development
+- 🎨 UI implementation projects
+- 🔥 Firebase/Supabase integrations
+
 ---
+
+## 📬 Let's Connect
 
 ## 📬 Let's Connect
 
