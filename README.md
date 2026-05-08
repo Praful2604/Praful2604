@@ -9,6 +9,8 @@
 <p align="center">
   <em>Building production-ready mobile & web apps with clean UI, real-time systems, and offline-first architectures.</em>
 </p>
+[![Resume](https://img.shields.io/badge/Resume-View%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1QB3cT5M9M3Tl_4VEMR8z6ZVoIfG-Ph-F)
+[![Copy Resume Link](https://img.shields.io/badge/Resume-Copy%20URL-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1QB3cT5M9M3Tl_4VEMR8z6ZVoIfG-Ph-F)
 ## 📄 Resume
 
 <div align="center">
