@@ -13,8 +13,7 @@
 
 <div align="center">
 
-[![View Resume](https://img.shields.io/badge/View-Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://drive.google.com/drive/folders/1QB3cT5M9M3Tl_4VEMR8z6ZVoIfG-Ph-F](https://drive.google.com/file/d/1YebQRKNXg5DvjdErwsKpN6ct9hOaIToL/view?usp=drive_link))
-
+[![View Resume](https://img.shields.io/badge/View-Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1YebQRKNXg5DvjdErwsKpN6ct9hOaIToL/view?usp=drive_link)
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praful%20Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prafulkadam)
@@ -143,7 +142,15 @@ When I'm not coding, I'm exploring new Flutter packages, reading about clean arc
 | 🔥 Firebase Essential Training | LinkedIn Learning | [View Certificate](https://drive.google.com/file/d/1KGrUls5dMDwjNeTiEPt5nDXgsBwxmt7V/view?usp=drive_link) |
 
 </div>
+---
+## 🤝 Open to Collaboration
 
+I'm open to:
+- Flutter freelance projects
+- Open-source collaboration
+- Startup MVP development
+- UI implementation projects
+- Firebase/Supabase integrations
 ---
 
 ## 📬 Let's Connect
