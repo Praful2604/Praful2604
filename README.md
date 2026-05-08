@@ -158,7 +158,6 @@ I'm open to:
 
 ## 📬 Let's Connect
 
-## 📬 Let's Connect
 
 I'm always open to collaborating on interesting Flutter projects, discussing mobile architecture, or just talking tech!
 
