@@ -9,16 +9,12 @@
 <p align="center">
   <em>Building production-ready mobile & web apps with clean UI, real-time systems, and offline-first architectures.</em>
 </p>
-[![Resume](https://img.shields.io/badge/Resume-View%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1QB3cT5M9M3Tl_4VEMR8z6ZVoIfG-Ph-F)
-[![Copy Resume Link](https://img.shields.io/badge/Resume-Copy%20URL-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1QB3cT5M9M3Tl_4VEMR8z6ZVoIfG-Ph-F)
+
 ## 📄 Resume
 
 <div align="center">
 
-[![View Resume](https://img.shields.io/badge/View-Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1QB3cT5M9M3Tl_4VEMR8z6ZVoIfG-Ph-F)
-
-📋 **Resume Link:**  
-`https://drive.google.com/drive/folders/1QB3cT5M9M3Tl_4VEMR8z6ZVoIfG-Ph-F`
+[![View Resume](https://img.shields.io/badge/View-Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://drive.google.com/drive/folders/1QB3cT5M9M3Tl_4VEMR8z6ZVoIfG-Ph-F](https://drive.google.com/file/d/1YebQRKNXg5DvjdErwsKpN6ct9hOaIToL/view?usp=drive_link))
 
 </div>
 
