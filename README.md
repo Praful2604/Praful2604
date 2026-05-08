@@ -9,6 +9,16 @@
 <p align="center">
   <em>Building production-ready mobile & web apps with clean UI, real-time systems, and offline-first architectures.</em>
 </p>
+## 📄 Resume
+
+<div align="center">
+
+[![View Resume](https://img.shields.io/badge/View-Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1QB3cT5M9M3Tl_4VEMR8z6ZVoIfG-Ph-F)
+
+📋 **Resume Link:**  
+`https://drive.google.com/drive/folders/1QB3cT5M9M3Tl_4VEMR8z6ZVoIfG-Ph-F`
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praful%20Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prafulkadam)
 [![GitHub](https://img.shields.io/badge/GitHub-Praful2604-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praful2604)
