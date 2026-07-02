@@ -30,7 +30,7 @@ Over the past couple of years, I've worked on production-level apps spanning **c
 When I'm not coding, I'm exploring new Flutter packages, reading about clean architecture, or figuring out why my Isar schema migration broke everything again. 😅
 
 - 🌍 Based in **Mumbai, Maharashtra, India**
-- 🎓 Final Year **B.E. Computer Engineering** (Graduating June 2026)
+- 🎓 B.E. in Computer Engineering (Completed June 2026) | CGPA: 8.23/10
 - 💼 Open to **Flutter Developer roles** and freelance opportunities
 - 🔍 Interested in **scalable app architecture**, **real-time systems**, and **clean UI/UX**
 
@@ -87,6 +87,17 @@ Local Storage (Isar/Hive)
 ---
 
 ## 🚀 Featured Projects
+### 🚆[RailLive](https://github.com/Praful2604/https://github.com/Praful2604/Rail-Live) — Real-Time Indian Railway Tracker
+
+A cross-platform railway tracking app with live train status, passenger communication, and location-based travel features.
+
+🚆 Live train tracking & status using IRCTC RapidAPI with real-time updates
+💬 Train-specific group chat with Firebase Authentication, Cloud Firestore, coach selection, and swipe-to-reply
+🔔 Push notifications using Firebase Cloud Messaging (FCM) for real-time communication
+🔍 Offline train search with local JSON autocomplete, search suggestions, and recent searches
+🗺️ Interactive route mapping using Flutter Map, Geolocator, and latlong2 for location-based features
+💳 Secure online payments integrated with Razorpay
+🏗️ Clean architecture & state management using Provider (ChangeNotifier), flutter_dotenv, and robust API error handling (403, 404, 429)
 
 ### 📋 [Feedback Flow](https://github.com/Praful2604/feedback_flow_Student_app) — Complaint Management System
 > A role-based complaint management platform with real-time updates and anonymous reporting.
