@@ -87,7 +87,7 @@ Local Storage (Isar/Hive)
 ---
 
 ## 🚀 Featured Projects
-### 🚆[RailLive](https://github.com/Praful2604/https://github.com/Praful2604/Rail-Live) — Real-Time Indian Railway Tracker
+### 🚆[RailLive](https://github.com/Praful2604/Rail-Live) — Real-Time Indian Railway Tracker
 
 A cross-platform railway tracking app with live train status, passenger communication, and location-based travel features.
 
