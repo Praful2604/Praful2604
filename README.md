@@ -23,9 +23,9 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **Flutter developer** and final-year Computer Engineering student at Mumbai University, graduating in **June 2026**. I love crafting cross-platform apps that are fast, scalable, and delightful to use.
+I'm a passionate **Flutter developer** and a Computer Engineering graduate from Mumbai University (**B.E. completed, June 2026**). I love crafting cross-platform apps that are fast, scalable, and delightful to use.
 
-Over the past couple of years, I've worked on production-level apps spanning **complaint management**, **cloud photo sharing**, and **community health surveys** — picking up deep experience in **Firebase**, **Supabase**, and **offline-first** mobile architectures along the way.
+Over the past couple of years, I've worked on production-level apps spanning **complaint management**, **cloud photo sharing**, **real-time railway tracking**, and **community health surveys** — picking up deep experience in **Firebase**, **Supabase**, and **offline-first** mobile architectures along the way.
 
 When I'm not coding, I'm exploring new Flutter packages, reading about clean architecture, or figuring out why my Isar schema migration broke everything again. 😅
 
@@ -87,17 +87,20 @@ Local Storage (Isar/Hive)
 ---
 
 ## 🚀 Featured Projects
-### 🚆[RailLive](https://github.com/Praful2604/Rail-Live) — Real-Time Indian Railway Tracker
+
+### 🚆 [RailLive](https://github.com/Praful2604/Rail-Live) — Real-Time Indian Railway Tracker
 
 A cross-platform railway tracking app with live train status, passenger communication, and location-based travel features.
 
-🚆 Live train tracking & status using IRCTC RapidAPI with real-time updates
-💬 Train-specific group chat with Firebase Authentication, Cloud Firestore, coach selection, and swipe-to-reply
-🔔 Push notifications using Firebase Cloud Messaging (FCM) for real-time communication
-🔍 Offline train search with local JSON autocomplete, search suggestions, and recent searches
-🗺️ Interactive route mapping using Flutter Map, Geolocator, and latlong2 for location-based features
-💳 Secure online payments integrated with Razorpay
-🏗️ Clean architecture & state management using Provider (ChangeNotifier), flutter_dotenv, and robust API error handling (403, 404, 429)
+- 🚆 Live train tracking & status using IRCTC RapidAPI with real-time updates
+- 💬 Train-specific group chat with Firebase Authentication, Cloud Firestore, coach selection, and swipe-to-reply
+- 🔔 Push notifications using Firebase Cloud Messaging (FCM) for real-time communication
+- 🔍 Offline train search with local JSON autocomplete, search suggestions, and recent searches
+- 🗺️ Interactive route mapping using Flutter Map, Geolocator, and latlong2 for location-based features
+- 💳 Secure online payments integrated with Razorpay
+- 🏗️ Clean architecture & state management using Provider (ChangeNotifier), flutter_dotenv, and robust API error handling (403, 404, 429)
+
+---
 
 ### 📋 [Feedback Flow](https://github.com/Praful2604/feedback_flow_Student_app) — Complaint Management System
 > A role-based complaint management platform with real-time updates and anonymous reporting.
